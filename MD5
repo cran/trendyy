@@ -1,0 +1,13 @@
+5f61bc0185b539d0a3224f5e1a5447ea *DESCRIPTION
+a380bc4c16fd6a05c5767fff5b658693 *NAMESPACE
+a27bd66bf09956d95dc80c4c39dba388 *R/get_trends.R
+449526eba2d85dbce285b536a21b05fb *R/trendy.R
+072877c9072966279c0f9494a238f730 *R/zzz.R
+960779153f35f09aac69855b77d43a66 *man/get_interest.Rd
+a6afa84e53ce8c6124bf2f902f442413 *man/get_interest_city.Rd
+b3f3b1b5f014ce2bb7bbbf8df550d700 *man/get_interest_country.Rd
+c3ab84fdba1d22bf65f3585e61b8a1e9 *man/get_interest_dma.Rd
+968e0e0f31dc72b405800ea735d38b2e *man/get_interest_region.Rd
+d0ce0fa765fb5776f6cf198894775def *man/get_related_queries.Rd
+1ab08df9fd226f264fe8a55963c87399 *man/get_related_topics.Rd
+55e3f083a6d9518fbebb8445ab46e1cd *man/trendy.Rd
