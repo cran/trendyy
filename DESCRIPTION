@@ -1,7 +1,7 @@
 Package: trendyy
 Title: A Tidy Wrapper Around 'gtrendsR'
-Version: 0.1.0
-Date: 2019-05-13
+Version: 0.1.1
+Date: 2019-05-19
 Authors@R: c(
   person("Josiah", "Parry", email = "josiah.parry@gmail.com", role = c("aut", "cre"))
   )
@@ -16,7 +16,7 @@ Depends: R (>= 3.2.0)
 Imports: gtrendsR, magrittr, dplyr, purrr, crayon, stringr, tibble
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-05-13 14:13:04 UTC; josiah
+Packaged: 2019-05-19 21:11:33 UTC; josiah
 Author: Josiah Parry [aut, cre]
 Repository: CRAN
-Date/Publication: 2019-05-15 13:10:02 UTC
+Date/Publication: 2019-05-20 14:10:04 UTC
